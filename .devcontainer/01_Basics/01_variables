@@ -1,0 +1,14 @@
+const account_id=14454;
+let accountEmail="abc@gmail.com";
+var accountPassword="123456";
+accountCity="Pune"
+
+// account_id=4;
+// console.log(account_id);
+
+
+accountEmail="xyz@abc.gom";
+accountPassword="111111";
+accountCity="banglore";
+
+console.table([accountEmail,accountPassword,accountCity]);
